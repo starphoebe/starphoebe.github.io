@@ -1,11 +1,15 @@
+.Phoebe{
+	font-family: ;
+    font-size: 20pt;
+}
 .hi{
 	border-color: #6C0593;
 	border-style: dotted;
 	color: #5E0481 ;
 	font-family: 'Rancho', cursive;
 	
-	background-image:url(點點.jpg);
-.ho{
+	background-image:url(捕夢網.jpg);
+.hp{
 	border-color: white;
 	border-style: dashed;
 }
@@ -13,4 +17,29 @@
 	border-color: white;
 	border-style: dashed;
 }
+
+.nav{
+	width: 100px;
+	height: 100px;
+	background: red;
+	float: left;
+	color: #FFF;
+}
+
+.left_col{
+	float: left;
+	padding: 4%;
+    width: 41%;
+    height: 1000px;
+    border-right: 1px solid gray;
+   
+}
+.right_col{
+	float: right;
+    padding: 4%;
+    width: 41%;
+    height: 1000px;
+    border-left: 1px;
+}
+
 
